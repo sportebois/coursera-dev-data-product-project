@@ -1,0 +1,10 @@
+name: Coursera-dev-data-product-titanic-survival
+account: sportebois
+server: shinyapps.io
+appId: 64562
+bundleId: 290288
+url:
+        https://sportebois.shinyapps.io/Coursera-dev-data-product-titanic-survival
+when: 1445113279.37269
+asMultiple: FALSE
+asStatic: FALSE

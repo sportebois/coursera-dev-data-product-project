@@ -1,0 +1,9 @@
+name: titanic
+account: sportebois
+server: shinyapps.io
+appId: 64256
+bundleId: 290294
+url: https://sportebois.shinyapps.io/titanic
+when: 1445113836.07607
+asMultiple: FALSE
+asStatic: FALSE
